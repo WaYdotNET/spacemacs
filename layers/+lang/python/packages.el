@@ -31,6 +31,7 @@
     smartparens
     stickyfunc-enhance
     xcscope
+    pyimport
     ))
 
 (defun python/init-anaconda-mode ()
